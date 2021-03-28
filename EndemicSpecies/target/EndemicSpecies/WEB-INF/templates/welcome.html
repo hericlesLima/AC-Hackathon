@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <thymeleaf th:replace="header :: header" />
+</head>
+<body>
+<div class="container">
+
+    <div th:replace="action :: action"></div>
+
+    <h2>WELCOME TO ENDEMICS SPECIES WEB APP</h2>
+
+    <a th:href="@{'/donor/login'}">Log in Donor</a>
+    <br>
+    <a th:href="@{'/donor/register'}">Register Donor</a>
+    <br>
+    <a th:href="@{'/association/Login'}">Log in Association</a>
+    <br>
+    <a th:href="@{'/association/register'}">Register Association</a>
+
+</div>
+</body>
+</html>

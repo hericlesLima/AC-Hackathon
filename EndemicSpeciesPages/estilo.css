@@ -1,0 +1,213 @@
+.denounce {
+    height: 37px;
+    left: 672px;
+    letter-spacing: 0px;
+    position: absolute;
+    text-align: center;
+    top: 331px;
+    width: 89px;
+  }
+  .desktop-1 {
+    align-items: center;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    height: 828px;
+    overflow: hidden;
+    width: 1024px;
+  }
+  .donate {
+    height: 37px;
+    left: 263px;
+    letter-spacing: 0px;
+    position: absolute;
+    text-align: center;
+    top: 331px;
+    width: 90px;
+  }
+  .ellipse-2 {
+    height: 53px;
+    left: 33px;
+    object-fit: cover;
+    position: absolute;
+    top: 31px;
+    width: 53px;
+  }
+  .ellipse-3 {
+    height: 46px;
+    left: 892px;
+    object-fit: cover;
+    position: absolute;
+    top: 32px;
+    width: 46px;
+  }
+  .overlap-group {
+    height: 396px;
+    position: relative;
+    width: 1024px;
+  }
+  .overlap-group1 {
+    height: 430px;
+    margin-left: 6px;
+    margin-top: 33px;
+    position: relative;
+    width: 612px;
+  }
+  .overlock-bold-summer-green-15px {
+    color: var(--summer-green);
+    font-family: "Overlock-Bold", Helvetica;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .patronize {
+    height: 37px;
+    left: 473px;
+    letter-spacing: 0px;
+    position: absolute;
+    text-align: center;
+    top: 331px;
+    width: 80px;
+  }
+  .rectangle-10 {
+    height: 418px;
+    left: 12px;
+    object-fit: cover;
+    position: absolute;
+    top: 12px;
+    width: 588px;
+  }
+  .rectangle-11 {
+    height: 278px;
+    left: 221px;
+    object-fit: cover;
+    position: absolute;
+    top: 105px;
+    width: 588px;
+  }
+  .rectangle-12 {
+    background-color: var(--mist-gray);
+    border-radius: 20px;
+    height: 15px;
+    left: 100px;
+    position: absolute;
+    top: 31px;
+    width: 129px;
+  }
+  .rectangle-13 {
+    background-color: var(--mist-gray);
+    border-radius: 20px;
+    height: 15px;
+    left: 100px;
+    position: absolute;
+    top: 50px;
+    width: 101px;
+  }
+  .rectangle-14 {
+    background-color: white;
+    border-radius: 20px;
+    height: 37px;
+    left: 242px;
+    position: absolute;
+    top: 331px;
+    width: 131px;
+  }
+  .rectangle-15 {
+    background-color: white;
+    border-radius: 20px;
+    height: 37px;
+    left: 446px;
+    position: absolute;
+    top: 331px;
+    width: 131px;
+  }
+  .rectangle-16 {
+    background-color: white;
+    border-radius: 20px;
+    height: 37px;
+    left: 650px;
+    position: absolute;
+    top: 331px;
+    width: 131px;
+  }
+  .rectangle-17 {
+    background-color: white;
+    border-radius: 20px;
+    height: 8px;
+    left: 92px;
+    position: absolute;
+    top: 36px;
+    width: 40px;
+  }
+  .rectangle-18 {
+    background-color: white;
+    border-radius: 20px;
+    height: 8px;
+    left: 92px;
+    position: absolute;
+    top: 50px;
+    width: 40px;
+  }
+  .rectangle-19 {
+    background-color: white;
+    border-radius: 20px;
+    height: 8px;
+    left: 92px;
+    position: absolute;
+    top: 64px;
+    width: 40px;
+  }
+  .rectangle-5 {
+    background-color: var(--summer-green-2);
+    height: 121px;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 1024px;
+  }
+  .rectangle-7 {
+    background-color: var(--christi);
+    border-radius: 24px;
+    height: 418px;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 612px;
+  }
+  .rectangle-8 {
+    background-color: white;
+    border-radius: 20px;
+    height: 37px;
+    left: 206px;
+    position: absolute;
+    top: 36px;
+    width: 612px;
+  }
+  .rectangle-9 {
+    background-color: var(--christi);
+    border-radius: 24px;
+    height: 297px;
+    left: 209px;
+    position: absolute;
+    top: 99px;
+    width: 612px;
+  }
+  .search {
+    height: 37px;
+    left: 237px;
+    letter-spacing: 0px;
+    position: absolute;
+    top: 36px;
+    width: 194px;
+  }
+  :root {
+    --christi: rgba(94, 175, 13, 1);
+    --mist-gray: rgba(196, 196, 196, 1);
+    --summer-green: rgba(144, 201, 156, 1);
+    --summer-green-2: rgba(143, 200, 156, 1);
+  }
+  .valign-text-middle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
